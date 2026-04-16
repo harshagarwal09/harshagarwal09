@@ -2,21 +2,33 @@
 
 🎓 B.Tech CSE (Big Data Analytics) @ SRM Institute of Science and Technology, Chennai (2024–2028)
 
-## About Me
-- 🔍 Interested in **Data Analytics**, **Machine Learning**, and **Fintech**
-- 🐍 Currently building projects in **Python**, **SQL**, and **Big Data**
-- ☁️ Certified in **Oracle Cloud Infrastructure 2025 Generative AI**
-- 📊 Completed **Deloitte Australia Data Analytics** simulation (Forage)
+---
 
-## My Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏦 Bank Management System with Fraud Detection | Detects fraudulent transactions using ML | Python, SQL |
-| 🔒 Cyber Crime Complaint & Case Management | Complaint tracking and case management system | Python, SQL |
-| 🤖 Intern AI | Smart India Hackathon 2025 project | Python, AI |
+## 🚀 About Me
+
+- 🔍 Interested in Data Analytics, Machine Learning, FinTech, and Intelligent Systems  
+- 🐍 Building projects using Python, SQL, and Big Data technologies  
+- ☁️ Certified in Oracle Cloud Infrastructure 2025 Generative AI  
+- 📊 Completed Deloitte Australia Data Analytics Job Simulation (Forage)  
+- 💡 Exploring real-world problem solving through software projects  
 
 ## Skills
 `Python` `SQL` `Pandas` `NumPy` `Machine Learning` `Big Data` `Oracle OCI` `Git`
+
+## 📈 Currently Learning
+
+- Machine Learning for real-world applications  
+- Streamlit web app development  
+- Fraud detection systems  
+- Big Data tools  
+
+---
+
+## 🌐 Goals
+
+- Build impactful software products  
+- Contribute to real-world projects  
+- Grow in Data + AI + FinTech domain 
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-agarwal-8bb503323)
